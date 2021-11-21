@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Dylan (@Dylbin) I'm 19 years old!
+- 👋 Hi, My name is Dylan (@Dylbin) I'm 19 years old.
 - 👀 I’m interested in iOS Jailbreaking, hanging out with friends, playing video games and coding.
 - 🌱 I’m currently learning more HTML, CSS and a little bit of Java.
 - 📫 How do you reach out to me?: Add Dylbin#0999 on discord or message me on twitter.
