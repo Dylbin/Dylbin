@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Dylan I'm 19 years old.
-- 📫 Discord: Dylbin#8255 Twitter: (@hitechtalk999).
+- 📫 Discord: Dylbin#0999 Twitter: (@dylbin999nlmb).
 
 <!---
 Dylbin/Dylbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
