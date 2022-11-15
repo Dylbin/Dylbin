@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Dylan I'm 20 years old.
+- 👋 Hi, My name is Dylan I'm a 20 year old web developer from Sweden.
 - 📫 Discord: bottledcodeine#2238 Twitter: (@dylicious999).
 
 <!---
