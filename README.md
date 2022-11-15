@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Dylan I'm a 20 year old web developer from Sweden.
+- 👋 Hi, My name is Dylan I'm a 20 year old web developer and iOS Jailbreaker from Sweden.
 - 📫 Discord: bottledcodeine#2238 Twitter: (@dylicious999).
 
 <!---
