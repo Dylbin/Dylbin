@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Dylan I'm a 22 year old web developer and iOS Jailbreaker from Sweden.
-- 📫 Discord: dylicious999 Twitter: (@dylicious999).
+- 📫 You can reach me the easiest on Discord: dylicious999
 
 <!---
 Dylbin/Dylbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
